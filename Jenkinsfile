@@ -9,7 +9,7 @@ pipeline {
        
           stage('Build') {
                 steps {
-                   dir("Math.Tests"){
+                   dir("Math.Test"){
                     bat "${dotnet} build"
                    }
                 }
@@ -17,7 +17,7 @@ pipeline {
 
             stage('Testing') {
                 steps {
-                   dir("Math.Tests"){
+                   dir("Math.Test"){
                     bat "${dotnet} test"
                    }
                 }
@@ -25,7 +25,7 @@ pipeline {
 
             stage('Cleanimng') {
                 steps {
-                   dir("Math.Tests"){
+                   dir("Math.Test"){
                     bat "${dotnet} clean"
                    }
                 }
