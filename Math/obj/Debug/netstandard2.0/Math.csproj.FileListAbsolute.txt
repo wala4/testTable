@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\Code\testTable\testTable\Math\bin\Debug\netstandard2.0\Math.deps.json
+C:\Users\Student\Desktop\Code\testTable\testTable\Math\bin\Debug\netstandard2.0\Math.dll
+C:\Users\Student\Desktop\Code\testTable\testTable\Math\bin\Debug\netstandard2.0\Math.pdb
+C:\Users\Student\Desktop\Code\testTable\testTable\Math\obj\Debug\netstandard2.0\Math.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Code\testTable\testTable\Math\obj\Debug\netstandard2.0\Math.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Code\testTable\testTable\Math\obj\Debug\netstandard2.0\Math.AssemblyInfo.cs
+C:\Users\Student\Desktop\Code\testTable\testTable\Math\obj\Debug\netstandard2.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Code\testTable\testTable\Math\obj\Debug\netstandard2.0\Math.dll
+C:\Users\Student\Desktop\Code\testTable\testTable\Math\obj\Debug\netstandard2.0\Math.pdb
